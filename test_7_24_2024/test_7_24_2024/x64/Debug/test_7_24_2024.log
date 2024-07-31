@@ -1,0 +1,7 @@
+﻿  test.c
+D:\2024_code\test_7_24_2024\test_7_24_2024\test.c(103,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+D:\2024_code\test_7_24_2024\test_7_24_2024\test.c(103,9): warning C4313: "printf": 格式字符串中的 "%s" 与类型为 "int" 的参数 1 冲突
+D:\2024_code\test_7_24_2024\test_7_24_2024\test.c(103,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“char *”
+D:\2024_code\test_7_24_2024\test_7_24_2024\test.c(103,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "char *" 的参数 2 冲突
+  哈哈.cpp
+  test_7_24_2024.vcxproj -> D:\2024_code\test_7_24_2024\x64\Debug\test_7_24_2024.exe
